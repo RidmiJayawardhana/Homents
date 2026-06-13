@@ -1,7 +1,5 @@
 # 🏠 Homents – Home Service Provider Platform
 
-<div align="center">
-
 ### Connecting Customers with Trusted Service Professionals
 
 *Book. Manage. Get the Job Done.*
@@ -200,7 +198,6 @@ Homents aims to simplify the process of finding and hiring trusted home service 
 
 ---
 
-<div align="center">
 
 ### 🏠 Homents
 
